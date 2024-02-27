@@ -4,6 +4,12 @@
 
 # The Tea Text Editor
 Tea aims to be an extensible, fast, modern text editor.
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xd76CBbF7bB58dCe9Be1c97C8818C61F9932650e9'
+quorum: 1
 
 Also, more information can be found at
 [hack.withtea.party](https://hack.withtea.party).
